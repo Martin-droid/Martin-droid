@@ -7,7 +7,7 @@
 - 🔭 I Run a Tech Mentorship Virtual School.
 - 🌱 I love Code.
 - 👯 I am a Team Player.
-- ⚡ Ilove to Play The Violin.
+- ⚡ I love to Play The Violin.
 
 
 ### Languages and Tools:
