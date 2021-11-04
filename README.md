@@ -1,6 +1,6 @@
 ### Hi there, I'm Martin Ndegwa 👋
 
-[![LinkedIn Follow](https://www.linkedin.com/in/martin-ndegwa-3a8646175/)]
+
 
 ## I'm a Software Developer, Mentor and A Code Trainer.!!
 
