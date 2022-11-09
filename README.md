@@ -30,10 +30,10 @@
 
 <br />
 <br />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin-droid&show_icons=true&theme=radical)
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Martin-droid&theme=blue-green)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Martin-droid)](https://git.io/streak-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Martin-droid&show_icons=true&theme=radical)
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
